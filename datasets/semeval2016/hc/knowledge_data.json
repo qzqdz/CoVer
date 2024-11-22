@@ -1,0 +1,1437 @@
+[
+    {
+        "term": "deleting emails",
+        "explanation": "The phrase 'deleting emails' refers to the controversy surrounding Hillary Clinton's use of a private email server during her tenure as Secretary of State. This issue raised questions about transparency and the handling of government records, which are critical for accountability in public office.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "mtp meetthepress",
+        "explanation": "This refers to the television program 'Meet the Press,' where political discussions and interviews take place. The mention indicates that the topic of Hillary Clinton's emails was significant enough to be discussed in a major political forum, highlighting its relevance in contemporary political discourse.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Nixon",
+        "explanation": "The mention of Nixon relates to the historical context of political scandals and the importance of maintaining government records. It serves as a reference point for discussions about accountability and the potential consequences of mishandling sensitive information.",
+        "catalogue": "event"
+    },
+    {
+        "term": "AndrewWhyDoYouCareAboutWhatIThink?",
+        "explanation": "This social media discussion reflects a defensive stance often seen in online debates about public figures. It indicates the polarized opinions surrounding Hillary Clinton, where supporters and critics engage in discussions that can become personal and confrontational.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "I DidNotRealizeThatIWasThisImportant.",
+        "explanation": "This statement suggests a sarcastic or dismissive attitude towards the scrutiny faced by Hillary Clinton. It highlights the emotional responses that her supporters and detractors have regarding her significance in political discussions.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "FeelTheBern",
+        "explanation": "'FeelTheBern' is a slogan associated with Bernie Sanders' campaign, which emphasizes progressive values and policies. This term reflects the competition between Sanders and Clinton during the Democratic primaries, showcasing the divide within the party and the challenges Clinton faced in appealing to younger, more progressive voters.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Hillary",
+        "explanation": "The name 'Hillary' refers to Hillary Clinton, a prominent political figure and former Secretary of State. The use of her name in various contexts often evokes strong emotions and opinions, reflecting her significant role in American politics.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Benghazi",
+        "explanation": "The term 'Benghazi' refers to the 2012 attack on the U.S. consulate in Benghazi, Libya, which has been a significant point of controversy and political debate, particularly surrounding Hillary Clinton's role as Secretary of State at the time. The mention of 'REMEMBERBENGHAZI2016' indicates a call to remember this event in the context of political discussions.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Bernie2016",
+        "explanation": "'Bernie2016' refers to the campaign of Bernie Sanders during the 2016 presidential election. This term is relevant as it indicates the political context in which Hillary Clinton was a prominent figure, and it reflects the competition and differing ideologies within the Democratic Party.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "free speech",
+        "explanation": "The phrase 'free speech' indicates a discussion around the rights of individuals to express their opinions without censorship. In the context of Hillary Clinton, it suggests a critique of her relationship with the media and how her campaign may be perceived as limiting journalistic freedom.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "HillaryInNH",
+        "explanation": "This likely refers to an event or campaign activity involving Hillary Clinton in New Hampshire, a key state in the U.S. presidential primaries. Events in New Hampshire are significant as they can influence the momentum of a political campaign.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "FAKE POTUS",
+        "explanation": "The term 'FAKE POTUS' suggests a strong disapproval of the current or past presidential leadership, which is often associated with Hillary Clinton's political opposition. This reflects a broader sentiment of distrust in political figures.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "lie",
+        "explanation": "The term 'lie' indicates a strong accusation against Hillary Clinton, suggesting that she is not truthful in her statements or actions. This reflects a significant emotional stance from critics who believe her dishonesty harms the country.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "cover ups",
+        "explanation": "The phrase 'cover ups' implies that there are deliberate efforts to conceal the truth regarding certain actions or events, particularly in a political context. This is a critical accusation that suggests a lack of transparency and accountability.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "VICTORY2016",
+        "explanation": "VICTORY2016 is a rallying cry associated with Hillary Clinton's 2016 presidential campaign, emphasizing the goal of winning the election. It reflects the aspirations of her supporters and the broader movement for a woman president.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Federalism",
+        "explanation": "The mention of federalism in the context of Ronald Reagan's quote highlights a political philosophy that emphasizes the role of states in relation to the federal government. This is relevant to discussions about governance and the political landscape during Clinton's career.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "World Cup",
+        "explanation": "The World Cup is a significant international soccer tournament. The victory of the U.S. Women's National Team in this event is a landmark achievement that showcases the capabilities of women athletes, which resonates with Hillary Clinton's message of empowerment and support for women's accomplishments.",
+        "catalogue": "event"
+    },
+    {
+        "term": "pantsuits",
+        "explanation": "The term 'pantsuits' refers to a style of clothing often associated with Hillary Clinton, particularly during her political career. It symbolizes her professional image and has been a topic of discussion regarding gender and fashion in politics.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "gun rights",
+        "explanation": "The mention of 'gun rights' indicates a significant political issue that Hillary Clinton has been involved with, particularly in the context of her policy positions. This reflects the ongoing debate in American politics regarding gun control and the rights of citizens.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Killary",
+        "explanation": "This term is a derogatory nickname used to criticize Hillary Clinton, often associated with conspiracy theories and negative sentiments towards her. It reflects the intense polarization surrounding her and is significant in understanding the social media discourse about her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "HRC",
+        "explanation": "HRC is an abbreviation commonly used to refer to Hillary Rodham Clinton. It is significant as it encapsulates her identity in political discussions and is often used in social media and political commentary.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "scandal",
+        "explanation": "The mention of 'scandal' suggests ongoing controversies or allegations related to Hillary Clinton, which are often a focal point in discussions about her political career.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Depends Day",
+        "explanation": "The term 'Depends Day' appears to be a derogatory reference, possibly mocking Hillary Clinton's political strategies or decisions. It suggests a negative sentiment towards her campaign tactics.",
+        "catalogue": "event"
+    },
+    {
+        "term": "war monger",
+        "explanation": "The term 'war monger' is used to describe someone who promotes or advocates for war, often for personal or political gain. In this context, it reflects a strong negative sentiment towards Hillary Clinton, suggesting that she is as aggressive in her foreign policy as her Republican counterparts, which is a significant criticism from those who oppose her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Tea Party",
+        "explanation": "The Tea Party is a political movement in the United States that emerged in the late 2000s, characterized by its conservative stance and opposition to what it perceives as excessive government spending and overreach. The mention of the Tea Party in relation to Aryan Nations suggests a connection between extremist ideologies and contemporary political movements, which can evoke strong emotions and stances regarding political identity and extremism.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Hitlery",
+        "explanation": "The term 'Hitlery' is a derogatory nickname used to express disdain towards Hillary Clinton. It reflects a strong negative sentiment and is often used by critics to associate her with negative connotations, particularly in political discussions.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Bilderbergs",
+        "explanation": "The mention of 'Bilderbergs' refers to the Bilderberg Group, an annual conference of influential people from various sectors. This reference suggests a conspiracy theory context, implying that powerful elites, including possibly Hillary Clinton, are involved in secretive decision-making processes.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "BILL CLINTON",
+        "explanation": "The mention of 'BILL CLINTON' indicates a reference to the former President of the United States, who is often discussed in relation to his wife, Hillary Clinton. This connection is significant as it highlights the political legacy and influence of the Clinton family in American politics.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "witch hunt",
+        "explanation": "The term 'witch hunt' is used to describe a campaign directed against a person or group, often based on unfounded accusations. In this context, it reflects the sentiment that investigations into Hillary Clinton's actions are perceived as politically motivated and unjust.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "VoteBlue2016",
+        "explanation": "This phrase represents a call to action for voters to support the Democratic Party in the 2016 elections, highlighting a collective effort to rally behind candidates like Hillary Clinton. It reflects the political alignment and emotional investment of supporters in the electoral process.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Election2016",
+        "explanation": "This term denotes the presidential election that took place in 2016, a significant event in U.S. history where Hillary Clinton was a prominent candidate. The election was marked by intense political debates and discussions, particularly surrounding issues like healthcare, immigration, and women's rights, including abortion.",
+        "catalogue": "event"
+    },
+    {
+        "term": "coattails",
+        "explanation": "The term 'coattails' refers to the political phenomenon where a popular candidate helps to boost the electoral prospects of other candidates from the same party. In this context, it suggests that Hillary Clinton's influence could positively impact other Democrats in upcoming elections.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "ropegate",
+        "explanation": "'Ropegate' appears to be a term used to describe a controversy or scandal associated with Hillary Clinton. The mention of it as part of her 'long list of accomplishments' suggests a sarcastic or critical tone, indicating ongoing discussions about her political legacy.",
+        "catalogue": "event"
+    },
+    {
+        "term": "2015",
+        "explanation": "The year 2015 is significant as it marks a period during which Hillary Clinton was actively campaigning for the presidency. This context is crucial for understanding the political climate and the challenges she faced during her campaign.",
+        "catalogue": "event"
+    },
+    {
+        "term": "HillaryonCNN",
+        "explanation": "This likely refers to discussions or segments featuring Hillary Clinton on CNN, which may cover her political views, interviews, or responses to current events.",
+        "catalogue": "event"
+    },
+    {
+        "term": "thehill",
+        "explanation": "This refers to a news outlet that covers politics, policy, business, and international relations. The mention indicates that there is ongoing coverage or commentary regarding Hillary Clinton's political standing and public perception.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "smarter",
+        "explanation": "The term 'smarter' reflects a positive perception of Hillary Clinton's intelligence and capabilities, suggesting that she is more competent than her critics. This is important as it highlights the support she has among her followers who value her intellect.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "works harder",
+        "explanation": "The phrase 'works harder' emphasizes the dedication and effort that Hillary Clinton is perceived to put into her work. This is significant as it portrays her as a committed and diligent individual, countering negative narratives about her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "HillaryLies",
+        "explanation": "The term 'HillaryLies' suggests a critical stance towards Hillary Clinton, indicating that some individuals believe she is dishonest. This is significant as it represents the opposition's narrative and the challenges she faces in public perception.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "USATODAY",
+        "explanation": "USATODAY is a news outlet that has reported on Hillary Clinton, indicating that she remains a relevant figure in current news cycles. The mention of this source suggests that there are ongoing discussions or articles about her, particularly in relation to legal matters.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "2012 GOP",
+        "explanation": "The reference to the 2012 GOP indicates a significant political event where the Republican Party was involved in the presidential election. This context is important as it highlights the shifting dynamics within the party, especially in relation to Donald Trump.",
+        "catalogue": "event"
+    },
+    {
+        "term": "NoBillary",
+        "explanation": "The term 'NoBillary' reflects a strong negative sentiment towards Hillary Clinton, particularly in relation to her husband's past actions and the perception of dishonesty. It indicates a faction of voters who are opposed to her candidacy, associating her with her husband's controversies.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "GOPHaters",
+        "explanation": "The term 'GOPHaters' reflects a sentiment of disdain towards the Republican Party, particularly in the context of their opposition to Hillary Clinton. It indicates a polarized political environment where Clinton's supporters view attacks from the right as humorous or ineffective.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "SUCCESS",
+        "explanation": "'SUCCESS' signifies a positive affirmation of Hillary Clinton's resilience against political attacks. It suggests that despite the challenges she faces, she is perceived as succeeding in her political endeavors.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Demonrat",
+        "explanation": "'Demonrat' is a pejorative term used by some critics to refer to members of the Democratic Party, implying a negative view of their policies and actions. This term reflects the contentious political climate and the strong emotions surrounding party affiliations, particularly in relation to Hillary Clinton.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "HillaryforSC",
+        "explanation": "This is a campaign slogan or hashtag used to promote Hillary Clinton's candidacy in South Carolina. It signifies the campaign's branding and outreach efforts in the state, aiming to rally supporters and create a sense of community among voters.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "echo chamber",
+        "explanation": "The term 'echo chamber' refers to an environment where a person only encounters information or opinions that reflect and reinforce their own. In this context, it suggests that the speaker feels surrounded by a biased perspective regarding Hillary Clinton, indicating a critical stance towards the narratives surrounding her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "$329 million",
+        "explanation": "The figure '$329 million' refers to the total amount of money Hillary Clinton has amassed throughout her career, which raises questions about her financial ties and influences, particularly from major financial institutions like Citigroup and Goldman Sachs. This is significant in discussions about her political and financial relationships.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "transparency",
+        "explanation": "The term 'transparency' is used in the context of Hillary Clinton's claims about her openness regarding her email practices. The discussion around her transparency is crucial as it relates to public trust and her political image.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "interview",
+        "explanation": "The mention of an 'interview' suggests a specific event where Hillary Clinton was likely discussing her views or experiences. The context implies that the interview was controversial and led to strong reactions from the audience.",
+        "catalogue": "event"
+    },
+    {
+        "term": "GOP",
+        "explanation": "The term 'GOP' refers to the Grand Old Party, which is a common nickname for the Republican Party in the United States. In the context of the text, it indicates a political affiliation and suggests a partisan perspective, particularly in relation to Hillary Clinton, who is often viewed as a prominent figure in the Democratic Party. This term highlights the political divide and the adversarial relationship between the two parties.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "ArrestObama",
+        "explanation": "The term 'ArrestObama' appears to be a provocative statement or hashtag that may relate to political dissent or criticism of former President Obama, which could indirectly affect perceptions of Hillary Clinton, especially given their political affiliations. This reflects the contentious political climate surrounding her campaign.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "OliviaPope",
+        "explanation": "The mention of 'OliviaPope' refers to a fictional character from the television show 'Scandal,' suggesting a desire for a strong, strategic leader akin to the character. This reflects a social media discussion about Hillary Clinton's campaign and leadership style, indicating a longing for a more dynamic or effective campaign management.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "intolerant",
+        "explanation": "The term 'intolerant' reflects a strong emotional stance against perceived narrow-mindedness or lack of acceptance, which is often associated with political discourse surrounding Hillary Clinton. It indicates a critique of attitudes that may be prevalent among her critics or supporters.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "blatant lie",
+        "explanation": "'Blatant lie' signifies a serious accusation often directed at political figures, including Hillary Clinton. This phrase suggests a significant event or statement that has been publicly challenged or refuted, highlighting the contentious nature of political communication.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Freddie Gray",
+        "explanation": "Freddie Gray was a young man whose death in police custody in Baltimore sparked widespread protests and discussions about police brutality and systemic racism. The mention of him in relation to the Baltimore mayor indicates a connection to broader social justice issues that may also involve political figures like Hillary Clinton.",
+        "catalogue": "event"
+    },
+    {
+        "term": "CNN",
+        "explanation": "CNN is a major news outlet that frequently covers political events and controversies, including those involving Hillary Clinton. Its mention suggests that there are ongoing discussions or reports about her actions or statements in the media.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "Hamas",
+        "explanation": "Hamas is a significant political and militant group in the Palestinian territories, often associated with conflict in Gaza. The mention of Hamas in the context of supporting the Jewish state indicates a stance on the Israeli-Palestinian conflict, which is a critical issue in U.S. foreign policy and often discussed in relation to Hillary Clinton's political views.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "GUN CONTROL",
+        "explanation": "Gun control is a significant political issue in the United States, and Hillary Clinton has been a vocal advocate for stricter gun control measures. This term reflects her stance on the need for legislative action to address gun violence.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "WarOnWomen",
+        "explanation": "The term 'WarOnWomen' is often used in political discourse to describe perceived attacks on women's rights and issues, particularly in the context of Hillary Clinton's advocacy for women's rights. This phrase encapsulates the broader feminist movement and the political battles surrounding gender equality, which are central to Clinton's political identity.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "paytoplay",
+        "explanation": "The term 'paytoplay' refers to a controversial practice where businesses or individuals make donations or payments to gain access to political influence or favors. This keyword highlights the perception of corruption and unethical behavior in political dealings, particularly in relation to Hillary Clinton's fundraising and political strategies.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "subpoena",
+        "explanation": "A subpoena is a legal document that orders an individual to testify or produce evidence. The mention of a subpoena in relation to Hillary Clinton indicates legal scrutiny and controversy surrounding her handling of emails during her tenure as Secretary of State, which has been a significant point of contention in her political career.",
+        "catalogue": "event"
+    },
+    {
+        "term": "LIED",
+        "explanation": "The term 'LIED' indicates a strong accusation against Hillary Clinton, suggesting dishonesty. This reflects a negative sentiment towards her character and integrity, which is a recurring theme in discussions about her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Corruptocrat",
+        "explanation": "The term 'Corruptocrat' is a derogatory label implying that Hillary Clinton is corrupt and abuses her power. This term is significant as it encapsulates the criticism she faces regarding her political actions and ethics.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "NoHillary",
+        "explanation": "'NoHillary' is a hashtag that signifies opposition to Hillary Clinton, often used by those who are against her candidacy or policies. It represents a broader movement of dissent against her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Whitewater",
+        "explanation": "Whitewater refers to a real estate investment controversy involving Hillary Clinton and her husband, Bill Clinton, during the 1970s and 1980s. It has been used by opponents to highlight perceived ethical issues and has been a focal point in discussions about her integrity.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Inauguration",
+        "explanation": "The mention of an inauguration suggests a significant political event, likely related to a new leadership or administration. The context implies that Hillary Clinton is viewed as a prominent figure who could be celebrated or acknowledged during such an event, indicating her ongoing relevance in political discussions.",
+        "catalogue": "event"
+    },
+    {
+        "term": "crimigrants",
+        "explanation": "The term 'crimigrants' reflects a negative sentiment towards immigrants, suggesting that they are criminals and contributing to societal issues. This keyword indicates a stance against immigration policies that some associate with Hillary Clinton and the Democratic Party.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Servergate",
+        "explanation": "Servergate refers to the controversy surrounding Hillary Clinton's use of a private email server during her tenure as Secretary of State. This event is significant as it raised questions about transparency and accountability, impacting her public image and political career.",
+        "catalogue": "event"
+    },
+    {
+        "term": "crazy card",
+        "explanation": "The phrase 'crazy card' refers to a tactic often used in political discourse where one party attempts to discredit another by labeling them as irrational or unstable. In this context, it suggests that Paul Begala, a known supporter of Clinton, is resorting to this tactic to defend her, which indicates a contentious political environment.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "no subpoenas",
+        "explanation": "The claim of 'no subpoenas' refers to a statement made by Hillary Clinton regarding legal inquiries or investigations. The mention of photographic evidence contradicting this claim indicates ongoing controversies surrounding her actions and statements, which are significant in understanding her political narrative.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Xanax",
+        "explanation": "The mention of 'Xanax' in a derogatory context suggests a perception of Hillary Clinton as someone who may be struggling with mental health or stress, reflecting a negative emotional stance towards her. This term is significant as it highlights the polarized views surrounding her character.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "emaleroland",
+        "explanation": "This term likely refers to the controversy surrounding Hillary Clinton's use of a private email server during her tenure as Secretary of State, which has been a significant point of criticism and discussion in her political career.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "subponea",
+        "explanation": "The term 'subponea' is a legal term that refers to a writ ordering a person to attend a court proceeding. Its mention in the text suggests a context of legal scrutiny or controversy surrounding Hillary Clinton, which is significant given her history with legal investigations.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "enemy",
+        "explanation": "The term 'enemy' reflects a strong negative sentiment towards Hillary Clinton, indicating that the speaker views her as an adversary, particularly from a GOP perspective. This highlights the polarized political climate surrounding her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "help",
+        "explanation": "The word 'help' in this context may refer to actions taken by Hillary Clinton or her supporters that are perceived as beneficial or supportive. It indicates a positive action, which contrasts with the negative connotations associated with the term 'enemy' in the same text. This duality reflects the complexities of political support and opposition.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "follow",
+        "explanation": "'Follow' in this context likely refers to social media engagement, where individuals choose to follow a public figure or political personality. This term indicates a level of interest or support for Hillary Clinton, suggesting that there are people who are actively engaging with her content or political messages.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "BENGHAZI2016",
+        "explanation": "This term refers to the controversy surrounding the 2012 Benghazi attack, which has been a significant point of criticism against Hillary Clinton, particularly during the 2016 presidential election. It represents ongoing political discourse and sentiments regarding her handling of foreign policy and security.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "2016 Fail",
+        "explanation": "'2016 Fail' likely refers to the perceived failures of Hillary Clinton's campaign during the 2016 presidential election, which has been a topic of discussion among critics and supporters alike. This phrase encapsulates the sentiment of disappointment or criticism regarding her electoral performance.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "SenSanders",
+        "explanation": "The mention of 'SenSanders' indicates a preference for Senator Bernie Sanders over Hillary Clinton, reflecting a political stance that favors Sanders' policies or approach. This highlights a division within the political landscape, particularly among conservative voters who may feel disillusioned with Clinton.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "2016",
+        "explanation": "The year '2016' is significant as it marks the presidential election year in which Hillary Clinton was a major candidate. This context is crucial for understanding the political climate and the sentiments expressed in the texts regarding her candidacy.",
+        "catalogue": "event"
+    },
+    {
+        "term": "maddow Show",
+        "explanation": "The Maddow Show, hosted by Rachel Maddow, is known for its in-depth political analysis and interviews. The hope for Hillary Clinton to appear on this show suggests a desire for her to engage with current political discourse and connect with her supporters.",
+        "catalogue": "event"
+    },
+    {
+        "term": "big banker buds",
+        "explanation": "'Big banker buds' refers to wealthy financial interests and donors who support Hillary Clinton. This term suggests a critique of her ties to Wall Street and the perception that she may prioritize the interests of the wealthy over those of ordinary citizens. This is an important aspect of her public image and the narrative surrounding her candidacy.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "AndrewIsAPaidTroll",
+        "explanation": "This phrase suggests that there are accusations of individuals being paid to promote certain narratives or discredit others on social media. In the context of discussions about Hillary Clinton, it implies that there are organized efforts to influence public opinion, which can complicate the discourse surrounding her.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Not about",
+        "explanation": "This phrase suggests a dismissal of certain topics that may detract from important discussions, highlighting the ongoing debates about the relevance of personal controversies versus policy issues in the context of Hillary Clinton's political career.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Obama",
+        "explanation": "Mentioning 'Obama' in the context of the GOP suggests a political environment where the actions and policies of former President Barack Obama are being critiqued or discussed. This is relevant to Hillary Clinton as she was a prominent figure in the Democratic Party during Obama's presidency.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "tcot",
+        "explanation": "'tcot' stands for 'Top Conservatives on Twitter,' which is a hashtag used by conservative users on Twitter to share content and engage in discussions. Its presence indicates that the discussions surrounding Hillary Clinton are being framed within a conservative context, often critical of her policies and actions.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Obama 2A NoAmnesty",
+        "explanation": "This phrase seems to reference a political stance or news related to President Obama, the Second Amendment (2A), and immigration policy (No Amnesty). It reflects ongoing discussions about gun rights and immigration, which are often linked to Hillary Clinton's political positions.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "WakeUpAmerica",
+        "explanation": "This term suggests a call to action or a rallying cry often used in political discourse. It indicates a movement or sentiment that may be associated with conservative or right-leaning discussions about national issues, possibly in contrast to Hillary Clinton's policies.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "white male vote",
+        "explanation": "The phrase 'white male vote' refers to a demographic group that is often associated with voting patterns in the United States, particularly in relation to the Republican Party (GOP). This keyword highlights the political landscape and the voting behavior of this group, which is significant in understanding electoral dynamics and the challenges faced by candidates like Hillary Clinton.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "black vote",
+        "explanation": "The term 'black vote' signifies the voting preferences and patterns of African American voters, who have historically leaned towards the Democratic Party. This keyword is crucial in the context of Hillary Clinton's campaign, as securing the black vote is essential for Democratic candidates to win elections.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "compliant media",
+        "explanation": "The phrase 'compliant media' suggests a critical view of the media's role in shaping narratives around Hillary Clinton, implying that they are easily influenced or controlled. This reflects a sentiment of distrust towards media coverage related to her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Good sheep!",
+        "explanation": "The phrase 'Good sheep!' is a derogatory comment directed at the media, suggesting that they are blindly following a narrative. This reflects a critical social media discussion about the media's portrayal of Hillary Clinton and the political landscape surrounding her.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "HillaryforNH",
+        "explanation": "This term likely refers to a campaign or support group for Hillary Clinton in New Hampshire, indicating her political presence and efforts in that state.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "NEITHER ONE",
+        "explanation": "This phrase suggests a rejection or disapproval of both options presented, possibly in the context of a political choice involving Hillary Clinton, reflecting a sentiment of dissatisfaction among some voters.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Hillary swine",
+        "explanation": "This derogatory term appears to express strong negative feelings towards Hillary Clinton, indicating a level of disdain or contempt from certain individuals.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "uppers uniteblue",
+        "explanation": "This phrase may refer to a call for unity among supporters of the Democratic Party or progressive movements, possibly in relation to Hillary Clinton's political stance.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "hillaryclinton lie",
+        "explanation": "This phrase suggests a strong accusation against Hillary Clinton, implying that she is dishonest and engages in deceitful behavior. It reflects a negative sentiment towards her character and actions, which is significant in political discourse.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "tcot uniteblue",
+        "explanation": "This term represents a social media discussion involving two political factions: 'tcot' (Top Conservatives on Twitter) and 'uniteblue' (a progressive movement). The mention of Hillary Clinton in this context indicates a polarized debate about her actions and policies, reflecting the broader political divide.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "killer",
+        "explanation": "The term 'killer' is used in a derogatory manner to express strong disapproval of Hillary Clinton, suggesting that she is morally reprehensible or has committed serious wrongdoings. This reflects a negative emotional stance towards her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "liar",
+        "explanation": "The term 'liar' indicates a belief that Hillary Clinton is dishonest. This keyword is significant as it encapsulates a common criticism directed at her, contributing to her controversial public image.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "coward",
+        "explanation": "The term 'coward' expresses a strong negative sentiment towards Hillary Clinton, suggesting that the speaker believes she is avoiding accountability or confrontation, particularly in the context of an upcoming debate. This reflects a broader criticism often directed at political figures who are perceived as evasive.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "email controversy",
+        "explanation": "The 'email controversy' refers to the scandal involving Hillary Clinton's use of a private email server during her tenure as Secretary of State. This event has been a significant point of contention in her political career, impacting public perception and trust.",
+        "catalogue": "event"
+    },
+    {
+        "term": "MarriageEquaility",
+        "explanation": "This term reflects a stance on the issue of marriage equality, which is a significant topic in contemporary social and political discussions. The mention of marriage equality in relation to Hillary Clinton indicates her involvement or stance on this issue, which has been a pivotal part of her political identity.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Hilldawg",
+        "explanation": "This term is a colloquial nickname for Hillary Clinton, often used in a friendly or informal context. It reflects her public persona and the way she is perceived by her supporters, indicating a level of familiarity and affection.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "BELIEVE IN VICTORY",
+        "explanation": "This phrase encapsulates a motivational and optimistic stance, likely aimed at rallying support for Hillary Clinton's campaign. It reflects a call to action for her supporters to remain hopeful and engaged in the electoral process.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Benghazi WasFireHot",
+        "explanation": "This phrase likely refers to the intense political and media scrutiny surrounding the Benghazi incident, which was a hot topic during Clinton's political career, particularly during her presidential campaigns.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "NeverAteAgain",
+        "explanation": "This phrase suggests a strong emotional reaction, possibly indicating a negative experience or sentiment related to Benghazi, reflecting the polarized views on Clinton's role in the incident.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "PetsMissThem",
+        "explanation": "This phrase may indicate a personal sentiment or nostalgia, possibly reflecting on the emotional aspects of loss or longing, which can be tied to discussions about Clinton's public persona and personal life.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Team USA",
+        "explanation": "Team USA represents the collective group of American athletes, particularly in women's sports, showcasing their achievements and capabilities. This term highlights the success and empowerment of American women in sports, which resonates with Hillary Clinton's advocacy for women's rights and equality.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "WWC2015",
+        "explanation": "WWC2015 refers to the 2015 FIFA Women's World Cup, a significant event where the U.S. women's national soccer team achieved remarkable success. This event is important as it symbolizes the strength and determination of women athletes, aligning with Hillary Clinton's message of supporting women's ambitions.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Shillary",
+        "explanation": "The term 'Shillary' is another derogatory nickname that combines 'Shill' and 'Hillary,' implying that Hillary Clinton is insincere or manipulative. This term is used to express skepticism and distrust towards her motives and actions.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "tying the knots",
+        "explanation": "The phrase 'tying the knots' in the context of the discussion suggests a metaphorical interpretation of political alliances or commitments. It indicates a critical view of how Hillary Clinton may be perceived as engaging in political maneuvering.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "press",
+        "explanation": "The term 'press' refers to the media and journalists who report on news and events. In this context, it suggests a critical view of how the media covers Hillary Clinton, implying that they may be obstructing public access to her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Highness",
+        "explanation": "The term 'Highness' is used sarcastically to refer to Hillary Clinton, suggesting a perception of her as being elevated or above the common people. This reflects a critical stance towards her public persona.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "morningjoe",
+        "explanation": "The mention of 'morningjoe' refers to a popular morning news program that often discusses political issues, including those related to Hillary Clinton. This indicates a social media discussion where viewers engage with the show's content, reflecting public sentiment and discourse surrounding Clinton.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "HillaryClinton",
+        "explanation": "Hillary Clinton is a prominent political figure and former Secretary of State, often discussed in the context of her political career, controversies, and advocacy for women's rights.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Queen HillaryClinton",
+        "explanation": "The term 'Queen HillaryClinton' suggests a perception of Hillary Clinton as a dominant or authoritative figure in politics, possibly reflecting both admiration and criticism. It indicates a strong emotional stance towards her persona.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Kochtrolls",
+        "explanation": "The term 'Kochtrolls' refers to individuals or groups that are perceived to be funded by the Koch brothers, often used in a derogatory sense to describe those who attack or undermine political candidates. In this context, it highlights a defensive stance towards Hillary Clinton, indicating that there are organized efforts to discredit her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Breaking911",
+        "explanation": "This is a news outlet that reports on various political and social issues. The reference to it indicates that there are ongoing discussions and reports about Hillary Clinton's political promises and actions, particularly regarding gun rights.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "support gun rights",
+        "explanation": "This phrase indicates a discussion about the conflicting promises made by Hillary Clinton regarding gun rights. It highlights the contentious nature of her political commitments and the scrutiny she faces from different voter groups.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "ban guns",
+        "explanation": "The phrase 'ban guns' reflects a controversial aspect of Hillary Clinton's political platform, suggesting that she may have made contradictory promises to different constituents. This highlights the challenges politicians face in addressing complex issues like gun control.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "realDonaldTrump",
+        "explanation": "The mention of realDonaldTrump refers to Donald Trump's official Twitter handle, which is often used to communicate his views and engage with the public. This highlights the ongoing political rivalry and discussions surrounding Hillary Clinton, especially in the context of the 2016 election.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "horrible candidate",
+        "explanation": "This phrase expresses a strong negative opinion about Hillary Clinton's candidacy. It reflects the sentiment of those who oppose her and suggests a belief that she is unfit for political office.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Owebama",
+        "explanation": "The term 'Owebama' seems to be a play on words combining 'Obama' and 'web', likely used in a negative context to criticize both Barack Obama and Hillary Clinton. This indicates a broader political discourse that associates them together in a critical light.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "weknowwhatsbest",
+        "explanation": "The phrase 'weknowwhatsbest' suggests a dismissive attitude towards the opinions or actions of Hillary Clinton, implying that the speaker believes they have superior knowledge or insight. This reflects a common theme in social media discussions where individuals express their views on political figures.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "campaign",
+        "explanation": "The term 'campaign' relates to Hillary Clinton's political campaign efforts, indicating a focus on her strategies and messaging as she seeks public support.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "indefensible",
+        "explanation": "The term 'indefensible' indicates a strong condemnation of a specific action or decision made by Clinton's campaign. It reflects the outrage and disappointment expressed by critics, emphasizing the severity of the situation.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "left was outraged",
+        "explanation": "This indicates that even those who typically support Clinton were upset by her actions, suggesting a significant breach of trust or expectation within her own political base.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "liberals",
+        "explanation": "The mention of 'liberals' indicates a group of people who traditionally support progressive policies. The text suggests that many liberals are perceived as blindly supporting Hillary Clinton despite her not aligning with their values, highlighting a divide within the political spectrum regarding her candidacy.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "brainwashed",
+        "explanation": "The term 'brainwashed' implies that individuals have been manipulated or influenced to the point of losing their critical thinking abilities. This reflects a strong emotional stance against those who support Clinton, suggesting that her supporters are not making informed choices.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "not even liberal",
+        "explanation": "This phrase indicates a belief that Hillary Clinton does not embody the values or policies typically associated with liberalism. It is a critical assertion that challenges her identity and alignment with the Democratic Party's base.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Fr3333dom",
+        "explanation": "'Fr3333dom' appears to be a play on the word 'freedom,' possibly indicating a stance against perceived oppression or control, which may relate to political views surrounding Hillary Clinton's policies or actions.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "socialist",
+        "explanation": "The term 'socialist' is significant as it reflects the political ideology associated with Bernie Sanders, which may not resonate well with southern Democrats. This highlights the ideological divide within the Democratic Party and the challenges faced by candidates like Hillary Clinton in appealing to a broad base.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "gun stance",
+        "explanation": "The phrase 'gun stance' refers to the position on gun control, which is a contentious issue in American politics. The mention of it being 'unacceptable' indicates a strong emotional response to this aspect of Bernie Sanders' platform, which could impact Hillary Clinton's campaign strategy and her own stance on gun control.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Buh bye, Bernie.",
+        "explanation": "This phrase indicates a dismissal or rejection of Bernie Sanders' candidacy or ideas, which could reflect the sentiments of some Democratic voters. It suggests a potential shift in support towards Hillary Clinton, emphasizing the competitive nature of the Democratic primaries.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Spend sensibly",
+        "explanation": "This phrase suggests a cautious approach to spending, reflecting a broader concern about fiscal responsibility that can be linked to public discussions about political leaders' financial ethics.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Resist greed",
+        "explanation": "This phrase calls for ethical financial behavior, which is often a topic of discussion in relation to politicians and their perceived motivations, including Hillary Clinton.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Netanyahu speaking",
+        "explanation": "This phrase suggests a comparison between Hillary Clinton's recent comments and those of Israeli Prime Minister Benjamin Netanyahu, indicating a significant political stance or alignment that may provoke discussion or controversy.",
+        "catalogue": "event"
+    },
+    {
+        "term": "ReadyForHillary",
+        "explanation": "ReadyForHillary is a political movement or campaign that supports Hillary Clinton's candidacy. It signifies grassroots support and mobilization efforts aimed at promoting her political agenda and candidacy, particularly during her presidential runs.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Rhodham Hood",
+        "explanation": "Rhodham Hood is a play on words referencing Hillary Clinton's maiden name, Rodham, and the legendary figure Robin Hood. This term suggests a narrative of social justice and wealth redistribution, aligning with Clinton's advocacy for economic equality and community support.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Hillary Clinton",
+        "explanation": "Hillary Clinton is a prominent political figure and former Secretary of State, known for her advocacy on various issues including military benefits and health care. Her name is often associated with discussions on women's rights, health care reform, and political leadership.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "UniteBlue",
+        "explanation": "UniteBlue is a social media platform that focuses on uniting progressive voices, often discussing topics related to Democratic figures like Hillary Clinton. Its mention indicates a community engaged in political activism and discourse.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "old white guy",
+        "explanation": "This phrase reflects a sentiment regarding the demographic characteristics of political candidates, suggesting a preference for diversity in leadership. It indicates a stance against traditional political figures, which may resonate with younger or more progressive voters.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Obama ISIS ISIL",
+        "explanation": "This phrase references former President Barack Obama and the terrorist organizations ISIS and ISIL, indicating a discussion around foreign policy and national security issues during his administration. It may relate to criticisms or discussions about how these topics were handled, which can be significant in the context of Hillary Clinton's political career and her role as Secretary of State.",
+        "catalogue": "event"
+    },
+    {
+        "term": "voting for me",
+        "explanation": "This phrase suggests a direct appeal for support, likely in the context of an election campaign. It indicates a call to action for voters, which is crucial in understanding the dynamics of political campaigns and voter engagement strategies.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Hilary 2016 sticker",
+        "explanation": "The 'Hilary 2016 sticker' represents support for Hillary Clinton's 2016 presidential campaign. It signifies a political stance and can evoke various reactions depending on the audience, particularly in contexts like a shooting range where political affiliations may influence social dynamics.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "5pm interview",
+        "explanation": "The mention of the '5pm interview' indicates a scheduled event that is significant for the target, likely related to Hillary Clinton's public engagements or media appearances. It reflects the importance of communication and public relations in her political career.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Bernie",
+        "explanation": "The reference to 'Bernie' likely pertains to Bernie Sanders, a prominent figure in the Democratic Party. The text expresses a concern about his nomination potentially leading to a loss against a Republican candidate, indicating a strategic consideration within the party regarding electability.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "RWNJ",
+        "explanation": "The term 'RWNJ' stands for 'Right-Wing Nut Job,' a derogatory term used to describe extreme right-wing individuals or groups. This reflects the author's emotional stance and concern about the political landscape, particularly in relation to Hillary Clinton's potential opponents.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "VoteGOP NoHillary",
+        "explanation": "'VoteGOP NoHillary' suggests a political campaign or movement aimed at opposing Hillary Clinton and promoting the Republican Party. This reflects the ongoing political rivalry and the mobilization of voters against her.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Tea Party Nation",
+        "explanation": "Tea Party Nation is a group associated with the Tea Party movement, which has been criticized for its extreme views and has been labeled a hate group by the Southern Poverty Law Center. This term is significant as it highlights the political landscape in which Hillary Clinton operates, often facing opposition from such groups.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Take back senate",
+        "explanation": "'Take back senate' indicates a political goal or event where Democrats aim to regain control of the Senate. This reflects the ongoing political strategies and aspirations within the Democratic Party, particularly in relation to Hillary Clinton's involvement.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Hillaryforprison2016",
+        "explanation": "'Hillaryforprison2016' was a slogan used by opponents of Hillary Clinton during the 2016 presidential campaign, suggesting that she should be imprisoned. This reflects the contentious political climate surrounding her candidacy and the strong emotions it evoked.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "lied under oath",
+        "explanation": "This phrase indicates a serious accusation against Hillary Clinton, suggesting that she has previously been dishonest in a legal context. It reflects a significant concern regarding her integrity and trustworthiness, which is a recurring theme in discussions about her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "high minded media",
+        "explanation": "This term refers to the media's perceived self-importance in covering political stories. It suggests a critique of the media's role in shaping narratives around political figures like Hillary Clinton, indicating a tension between politicians and the press.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "denial of normal",
+        "explanation": "This phrase suggests a sentiment that there is a perception of abnormality or distrust surrounding Hillary Clinton's candidacy for president. It reflects a critical stance on her public image and the challenges she faces in gaining trust.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "anti Israel boycotts",
+        "explanation": "This phrase represents Hillary Clinton's stance against movements that advocate for boycotting Israel, which she views as counterproductive. It highlights her support for Israel and her belief in the importance of maintaining strong diplomatic relations.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "True Christians",
+        "explanation": "This phrase refers to individuals who adhere to the teachings of Christianity as outlined in the Bible, particularly the Gospels of Matthew, Mark, Luke, and John. It implies a moral and ethical stance that contrasts with the actions or beliefs of certain political figures.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "DalaiLama",
+        "explanation": "The Dalai Lama is a prominent spiritual leader known for advocating compassion and peace. His mention in relation to women in leadership roles emphasizes the belief that such leadership can lead to a more compassionate world, aligning with Hillary Clinton's advocacy for women's empowerment.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "compassionate world",
+        "explanation": "This concept refers to a society characterized by empathy, kindness, and understanding. It is often associated with progressive values and is a goal that many advocates, including Hillary Clinton, strive to achieve through policies that promote social justice and equality.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "undocumented",
+        "explanation": "The term 'undocumented' in the context of the text reflects a strong emotional stance regarding immigration and the potential consequences of a Hillary Clinton presidency. It indicates a fear or resistance to her policies, suggesting that some individuals may feel compelled to take drastic measures in response to her leadership.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Mrs. President",
+        "explanation": "This phrase indicates a desire or aspiration for Hillary Clinton to hold the presidential office, reflecting the support and hope of her followers for her political future.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "shrill",
+        "explanation": "The term 'shrill' is used in a derogatory manner to describe Hillary Clinton, indicating a negative perception. This reflects the polarized views about her and is significant in understanding the emotional responses she elicits.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Hating Hillary",
+        "explanation": "'Hating Hillary' captures the intense negative sentiment some individuals express towards her. This is important as it highlights the divisive nature of her public image.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "BernieSanders",
+        "explanation": "Bernie Sanders is a significant political figure and a rival to Hillary Clinton in the Democratic Party. His mention suggests discussions around the Democratic primaries and the contrasting political ideologies between him and Clinton.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "StopBush",
+        "explanation": "The phrase 'StopBush' indicates a political stance or movement against the Bush family, which may relate to broader discussions about political dynasties and their influence in American politics, potentially impacting perceptions of Clinton as well.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "SpeakerBoehner",
+        "explanation": "John Boehner, as Speaker of the House, represents a significant political role in the GOP. His mention may indicate discussions about partisan politics and legislative challenges that Clinton faced during her career.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "GOP HouseGOP",
+        "explanation": "The mention of the GOP (Republican Party) indicates the political context in which Hillary Clinton operates, highlighting the partisan divide and the challenges she faces from Republican opposition.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "opportunist",
+        "explanation": "The term 'opportunist' is used to describe someone who takes advantage of situations for personal gain, often without regard for principles or ethics. In this context, it reflects a negative sentiment towards Hillary Clinton, suggesting that she, like Obama, is perceived as self-serving.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "militant",
+        "explanation": "'Militant' implies a combative or aggressive stance, indicating that the speaker views Hillary Clinton as more extreme in her actions or beliefs compared to others. This term contributes to the overall critical tone of the text.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "path to JAIL",
+        "explanation": "The phrase 'path to JAIL' suggests a desire for legal consequences for Hillary Clinton, indicating strong disapproval and a call for accountability. This reflects a significant sentiment among certain groups who believe she should face legal repercussions.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "DONOTPASSGO",
+        "explanation": "'DONOTPASSGO' is a reference to the Monopoly game, symbolizing a direct and unyielding demand for justice or punishment without any leniency. It emphasizes the urgency and seriousness of the call for action against Hillary Clinton.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "WeThePeople",
+        "explanation": "'WeThePeople' is a phrase often used to invoke the idea of collective citizenry and democratic principles. In this context, it suggests that the speaker believes the actions against Hillary Clinton are in the interest of the public and reflect a broader societal sentiment.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "media chatter",
+        "explanation": "The phrase 'media chatter' refers to the discussions and narratives created by the media about Hillary Clinton. It signifies the often critical and sensationalized coverage she receives, which she manages to transcend.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "admire and respect",
+        "explanation": "This phrase expresses a positive emotional stance towards Hillary Clinton, indicating that the speaker holds her in high regard for her capabilities and resilience.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "disappointed",
+        "explanation": "The term 'disappointed' reflects a negative emotional response, likely related to Hillary Clinton's political situation or public perception. It indicates a sense of dissatisfaction, which is significant in understanding her supporters' feelings and the overall sentiment towards her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "lying to Americans",
+        "explanation": "The phrase 'lying to Americans' suggests a strong accusation against Hillary Clinton, implying that she is perceived as dishonest. This is important as it highlights a critical stance towards her character and integrity, which can influence public opinion and voter behavior.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "SCOTUS",
+        "explanation": "SCOTUS refers to the Supreme Court of the United States, which is often a topic of discussion in political contexts. Its mention in relation to Hillary Clinton suggests that there may be ongoing discussions about judicial appointments or decisions that could impact her political agenda or legacy.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "SaveTheMiddleClass",
+        "explanation": "'SaveTheMiddleClass' is a phrase that indicates a focus on economic issues affecting the middle class, which is a significant part of Hillary Clinton's political platform. It reflects her stance on economic policies and social justice.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "StopOutSourcing",
+        "explanation": "'StopOutSourcing' highlights a concern regarding job outsourcing, which is a critical issue in American politics. This term aligns with Clinton's advocacy for protecting American jobs and supporting domestic industries.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "CNN interview",
+        "explanation": "This refers to a specific interview that Hillary Clinton conducted on CNN, which is significant as it showcases her engagement with mainstream media and her ability to communicate her views to a wide audience. The mention of a 'great job' suggests that her performance was well-received.",
+        "catalogue": "event"
+    },
+    {
+        "term": "1992",
+        "explanation": "The year 1992 is significant as it marks the beginning of Bill Clinton's first presidential campaign, during which Hillary Clinton played a prominent role as the First Lady of Arkansas and later as the First Lady of the United States. The mention of 1992 evokes nostalgia and references to past political dynamics.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "lies",
+        "explanation": "The term 'lies' indicates a strong emotional response and suggests a perception of dishonesty associated with Hillary Clinton. This reflects a critical stance towards her actions and statements.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Progressives",
+        "explanation": "This term refers to a political ideology that advocates for social reform and progressive policies. The mention of 'Progressives' in the context of free speech indicates a discussion about the balance between advocating for social change and maintaining individual rights, which is a hot topic in political circles.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "degenerate liar",
+        "explanation": "This phrase expresses a strong negative sentiment towards Hillary Clinton, suggesting that she is untrustworthy and dishonest. It reflects the speaker's disdain and is indicative of the polarized views surrounding her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "1600 Penn Ave",
+        "explanation": "This refers to the address of the White House, symbolizing the ultimate goal of political candidates in the United States. The mention implies a desire for power and leadership, particularly in the context of Hillary Clinton's political ambitions.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "HowAboutNo",
+        "explanation": "This phrase indicates a dismissive attitude towards the political landscape or specific political figures. It can be seen as a reaction to the perceived insincerity or superficiality in politics, which may include discussions about Hillary Clinton.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "NoHillary2016",
+        "explanation": "This term represents a political movement or sentiment against Hillary Clinton, particularly during the 2016 presidential election. It reflects a strong opposition to her candidacy and is significant in understanding the political landscape and sentiments surrounding her at that time.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "PredatorRat",
+        "explanation": "This term appears to be a derogatory label used in reference to Hillary Clinton, suggesting a negative perception of her character or actions. It is important as it highlights the contentious and often hostile political discourse surrounding her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "RedNationRising",
+        "explanation": "This term refers to a conservative movement or community that likely engages in discussions and activism against liberal figures, including Hillary Clinton. It is significant as it reflects the organized opposition she faces within certain political circles.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "CrackingCeilings",
+        "explanation": "This phrase likely refers to Hillary Clinton's efforts to break gender barriers in politics, particularly her candidacy for the presidency. It symbolizes the challenges women face in achieving leadership roles and the broader feminist movement.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Blames",
+        "explanation": "'Blames' indicates a sentiment of attributing responsibility for certain issues or challenges. In the context of Hillary Clinton, it suggests that she or her supporters may feel victimized by the political attacks she faces.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "OBAMASUCKS",
+        "explanation": "This term reflects a strong negative sentiment towards former President Obama, indicating a political stance that may align with certain conservative viewpoints. It suggests a polarized political environment where Hillary Clinton, as a prominent Democratic figure, is often associated with the policies of the Obama administration.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "ILOVETHIS",
+        "explanation": "This expression indicates a positive sentiment towards the preceding statements, possibly reflecting approval of the criticisms directed at Hillary Clinton. It showcases the divisive opinions that exist in social media discussions about her.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Govt benefits",
+        "explanation": "This phrase indicates a discussion around government assistance programs, which can evoke various emotions and stances regarding welfare and social support systems. It suggests a focus on the implications of such benefits on individuals and families, particularly in relation to dependency.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "welfare",
+        "explanation": "The term 'welfare' refers to government programs designed to support individuals in need. It is often a contentious topic in political discussions, particularly regarding its effectiveness and the societal implications of dependency on such programs.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Republicans",
+        "explanation": "The mention of 'Republicans' suggests a political comparison or alignment, indicating that the sentiments expressed may resonate with or reflect Republican viewpoints. This can be significant in understanding the political landscape and the perceptions of Hillary Clinton's policies.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "ITrustHillary",
+        "explanation": "'ITrustHillary' is a phrase that expresses support and trust in Hillary Clinton. It signifies a positive sentiment towards her character and capabilities, which is important for understanding her supporters' views.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "phone banking",
+        "explanation": "Phone banking is a grassroots campaign activity where volunteers make phone calls to voters to encourage them to support a candidate. In this context, it is related to Hillary Clinton's campaign efforts in South Carolina, indicating active engagement and mobilization of supporters.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "TODAYshow Attack",
+        "explanation": "This phrase refers to a perceived attack on Hillary Clinton by the media, suggesting that there are ongoing discussions or controversies surrounding her. It reflects the contentious relationship between Clinton and certain media outlets, which is significant in understanding her public perception.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "faux scandals",
+        "explanation": "'Faux scandals' indicates that the scandals associated with Hillary Clinton are perceived as fabricated or exaggerated. This term reflects a sentiment that the controversies surrounding her are not based on substantial evidence, which is significant in understanding public perception of her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "wicked person",
+        "explanation": "The phrase 'wicked person' suggests a strong negative sentiment towards Hillary Clinton, implying that she is viewed as morally corrupt or evil. This reflects a critical stance that may resonate with certain groups or individuals who oppose her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "30k deleted emails",
+        "explanation": "This phrase refers to the controversy surrounding Hillary Clinton's use of a private email server during her tenure as Secretary of State, where approximately 30,000 emails were deleted. This issue has been a significant point of criticism and debate regarding her transparency and accountability.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "told more lies",
+        "explanation": "This statement implies that Hillary Clinton is perceived as dishonest, which is a critical aspect of her public image and the controversies that have surrounded her throughout her career.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "ridiculous",
+        "explanation": "The term 'ridiculous' expresses a strong negative sentiment towards Hillary Clinton's statements or behavior during the interview, indicating that the speaker found her claims to be absurd or unbelievable.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "mNotVotingForHillary",
+        "explanation": "This phrase represents a social media discussion where individuals express their reasons for not supporting Hillary Clinton in the election. It encapsulates the sentiments of voters who may have been disillusioned or opposed to her policies, particularly regarding abortion and other key issues.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Bill",
+        "explanation": "Bill refers to Bill Clinton, Hillary's husband and former President of the United States. His mention implies a connection to Hillary's political identity and the impact of their marriage on her public perception.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Facetious much?",
+        "explanation": "This phrase indicates a sarcastic or joking tone in the discussion, suggesting that the speaker is questioning the seriousness of the previous statement about Hillary Clinton.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Clinton privilege",
+        "explanation": "The term 'Clinton privilege' suggests a perception that Hillary Clinton enjoys advantages or benefits that are not available to the average person, which is a common critique among her opponents. This phrase is used to highlight perceived inequalities and is often employed in political discourse to question her credibility and relatability.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "boycottlibralmedia",
+        "explanation": "The phrase 'boycottlibralmedia' indicates a call to action against media outlets perceived as liberal or biased against conservative viewpoints. This reflects a broader sentiment among some political groups that feel marginalized by mainstream media narratives, which often include discussions about figures like Hillary Clinton.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "The Blame Game",
+        "explanation": "This phrase suggests a strategy of attributing fault to others, in this case, indicating that Hillary Clinton has adopted a similar approach to former President Obama by blaming the GOP for various issues. It reflects a critical stance towards her political behavior.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "govote",
+        "explanation": "This term is often used in the context of encouraging voter participation, particularly among women. It signifies a call to action and empowerment, aligning with Hillary Clinton's advocacy for women's rights and political engagement.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "girlpower",
+        "explanation": "This term embodies the feminist movement and the empowerment of women. It is relevant to Hillary Clinton's political identity and her efforts to promote women's rights and representation in politics.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "lovewins",
+        "explanation": "This phrase is associated with the LGBTQ+ rights movement, particularly in the context of marriage equality. It reflects a progressive stance that aligns with Hillary Clinton's support for LGBTQ+ rights.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "centrist Democrats",
+        "explanation": "The term 'centrist Democrats' refers to members of the Democratic Party who hold moderate political views. This keyword highlights a division within the party and reflects the speaker's preference for inclusivity and a broader coalition, which is relevant to Hillary Clinton's political stance.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "first big interview",
+        "explanation": "This refers to a significant media appearance by Hillary Clinton, which was expected to address key issues but was perceived as lacking substance.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Clintonemails",
+        "explanation": "This term refers to the controversy surrounding Hillary Clinton's use of a private email server during her tenure as Secretary of State, which has been a focal point of criticism and scandal.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "total dud",
+        "explanation": "This phrase reflects a negative sentiment regarding Hillary Clinton's interview, indicating that it failed to engage or inspire her supporters.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "myriad of scandals",
+        "explanation": "This phrase suggests a belief that Hillary Clinton's potential presidency could be marred by numerous controversies, reflecting skepticism and criticism from her opponents.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "JournalismIsDead",
+        "explanation": "This phrase suggests a strong belief that traditional journalism has failed in its duties, particularly in relation to Hillary Clinton. It indicates a broader critique of media integrity and accountability.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "FreddieGray",
+        "explanation": "Freddie Gray was a significant figure in discussions about police brutality and social justice, which indirectly relates to the political climate in which Hillary Clinton operates. His mention alongside the Baltimore mayor indicates a connection to broader social issues that may intersect with Clinton's political narrative.",
+        "catalogue": "event"
+    },
+    {
+        "term": "OperationBendOver",
+        "explanation": "This term appears to be a derogatory phrase that may imply a criticism of political strategies or decisions. Its use in the context of Hillary Clinton suggests a negative sentiment towards her approach or policies.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "NoSanctuary",
+        "explanation": "This term likely refers to discussions around immigration policies, particularly those opposing sanctuary cities. It indicates a stance that may be critical of Hillary Clinton's views on immigration, reflecting broader political debates.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Scandal livisreal",
+        "explanation": "This phrase implies that there are ongoing scandals associated with Hillary Clinton, reflecting public perception and media narratives about her political career. It indicates a sentiment of skepticism or criticism towards her.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "not electable",
+        "explanation": "The phrase 'not electable' suggests a strong belief that Hillary Clinton lacks the qualities or support necessary to win an election. This sentiment reflects a critical stance towards her candidacy, indicating that some individuals perceive her as a poor choice for leadership.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "delusion",
+        "explanation": "The term 'delusion' suggests a strong negative perception of Hillary Clinton, indicating that the speaker believes she is out of touch with reality or has misguided beliefs. This reflects a critical stance towards her character and decision-making.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "pathological liar",
+        "explanation": "The phrase 'pathological liar' is a severe accusation implying that Hillary Clinton is not only dishonest but does so compulsively. This term is significant as it shapes public perception and can influence political discourse about her integrity.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Legal obligation",
+        "explanation": "This phrase indicates a responsibility or duty that Hillary Clinton had regarding the preservation of government and related documents. It suggests a legal framework that she was expected to adhere to, which is significant in discussions about accountability and governance.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "First Lord",
+        "explanation": "This term appears to be part of a social media discussion or commentary, possibly reflecting on a title or position associated with Hillary Clinton. It suggests a critique or a point of interest regarding her political status or roles.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "Benghazi subpoena",
+        "explanation": "The Benghazi subpoena refers to the legal requests for documents and testimony related to the 2012 attack on the U.S. consulate in Benghazi, Libya, during Hillary Clinton's tenure as Secretary of State. This event is significant as it has been a focal point of political controversy and scrutiny regarding Clinton's actions and transparency.",
+        "catalogue": "event"
+    },
+    {
+        "term": "AC360",
+        "explanation": "AC360 is a news program on CNN that is known for its in-depth coverage and analysis of current events. The reference to AC360 in the context of asking tough questions highlights the scrutiny that political figures like Hillary Clinton face in the media.",
+        "catalogue": "event"
+    },
+    {
+        "term": "cunning stunt",
+        "explanation": "The phrase 'cunning stunt' reflects a negative sentiment towards Hillary Clinton, suggesting that her actions are perceived as manipulative or deceitful. This term indicates a critical stance and highlights the emotional response of the speaker towards Clinton's behavior.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "GayMarriageisLegal",
+        "explanation": "This term indicates a significant social and legal milestone regarding LGBTQ+ rights, particularly the legalization of same-sex marriage. It is relevant to Hillary Clinton as she has been an advocate for LGBTQ+ rights throughout her political career.",
+        "catalogue": "event"
+    },
+    {
+        "term": "HillaryAllTheWay",
+        "explanation": "This phrase suggests strong support for Hillary Clinton, indicating a rallying cry among her supporters. It reflects the enthusiasm and commitment of her base, particularly in the context of her candidacy and political initiatives.",
+        "catalogue": "recent_news"
+    },
+    {
+        "term": "EpicLiberalFail",
+        "explanation": "This phrase reflects a strong negative sentiment towards Hillary Clinton, suggesting that her actions or statements are perceived as failures by those who identify as liberal. It indicates a critical stance and is often used in political discourse to undermine credibility.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "libcrib libtards",
+        "explanation": "These terms are derogatory slang used to refer to liberal individuals or groups, indicating a dismissive or mocking attitude. This reflects the polarized nature of political discussions surrounding Hillary Clinton, particularly among her critics on social media.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Benghazi hearings",
+        "explanation": "The Benghazi hearings refer to the investigations conducted by the GOP regarding the 2012 attack on the U.S. consulate in Benghazi, Libya, which resulted in the death of four Americans, including Ambassador Chris Stevens. These hearings have been criticized as politically motivated, particularly targeting Hillary Clinton, who was Secretary of State at the time. The mention of these hearings highlights the ongoing political scrutiny and controversy surrounding Clinton's actions and decisions during her tenure.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Trey Gowdy",
+        "explanation": "Trey Gowdy is a former U.S. Representative known for his role in leading the House Select Committee on Benghazi. His involvement in the hearings and the alleged leaking of documents to the press is significant as it raises questions about the integrity and motivations behind the investigations into Clinton. This highlights the contentious nature of the political discourse surrounding her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "donating to dem",
+        "explanation": "This phrase indicates a financial contribution to the Democratic Party, suggesting a political alignment or support for Democratic candidates and policies. It reflects the speaker's engagement in political activities and the necessity of financial support in political dealings.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "deleted emails",
+        "explanation": "This phrase refers to the controversy surrounding Hillary Clinton's use of a private email server and the deletion of emails that were subject to investigation. This event has been a focal point of political discourse and legal scrutiny, impacting her public image.",
+        "catalogue": "event"
+    },
+    {
+        "term": "MonicaLewinsky",
+        "explanation": "Monica Lewinsky is a key figure in a historical scandal involving Bill Clinton, which often resurfaces in discussions about Hillary Clinton, particularly in the context of women's rights and public perception.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "BillClinton",
+        "explanation": "Bill Clinton, the former President and husband of Hillary Clinton, is frequently mentioned in discussions about political controversies, including allegations of misconduct, which impact Hillary Clinton's public image.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "hillaryforprison",
+        "explanation": "This phrase is indicative of a social media campaign or movement advocating for legal action against Hillary Clinton, highlighting the contentious nature of her political legacy.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Donald Trump",
+        "explanation": "Donald Trump is a former President of the United States and a central figure in American politics, often mentioned in relation to Hillary Clinton due to their opposing political views and the 2016 presidential election.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Orange pantsuit",
+        "explanation": "The mention of an 'Orange pantsuit' is a sarcastic reference to Hillary Clinton's fashion choices, often used in a derogatory manner by critics.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "wakeupamerica",
+        "explanation": "This term suggests a call to action or awareness among Americans regarding political issues, often used by those who oppose Hillary Clinton's policies.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Anti American Libs",
+        "explanation": "This phrase reflects a strong negative sentiment towards a group perceived as opposing American values, with Hillary Clinton being specifically mentioned as part of this group. It indicates a polarized political stance and highlights the contentious nature of political discourse surrounding her.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "morally questionable",
+        "explanation": "The phrase 'morally questionable' is used to describe perceptions of Hillary Clinton's ethics and integrity, particularly in light of controversies like Benghazi and Whitewater. This term is important as it encapsulates the critical view held by some individuals regarding her character and decision-making, which can influence public opinion and voter behavior.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Latino",
+        "explanation": "The term 'Latino' refers to a demographic group that is increasingly influential in U.S. politics, particularly in presidential elections. Their voting decisions can significantly impact the outcome, making them a key focus for candidates.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Jeb2016",
+        "explanation": "This refers to Jeb Bush's campaign for the presidency in 2016. His candidacy was part of the Republican primary race, and it highlights the competition among candidates for the Latino vote.",
+        "catalogue": "event"
+    },
+    {
+        "term": "DonaldTrump",
+        "explanation": "Donald Trump, as a candidate in the 2016 presidential election, represents a significant figure in discussions about immigration and Latino voters. His policies and rhetoric have been polarizing, affecting his relationship with this demographic.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Sanders2016",
+        "explanation": "This refers to Bernie Sanders' campaign for the presidency in 2016. His progressive platform aimed to appeal to various voter groups, including Latinos, and is relevant in discussions about immigration and social justice.",
+        "catalogue": "event"
+    },
+    {
+        "term": "CancerIsProgressive",
+        "explanation": "This phrase suggests a critical view of progressive policies, possibly linking them to negative outcomes. It reflects a sentiment that may resonate with certain voter bases who oppose progressive immigration policies.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "jebs emails",
+        "explanation": "This phrase refers to the emails of Jeb Bush, which are being called into question in the context of political discussions about past presidential elections. It highlights the ongoing scrutiny of political figures and their actions, particularly in relation to the presidency.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "steal the presidency",
+        "explanation": "This phrase suggests allegations of wrongdoing or manipulation in the context of presidential elections, specifically referencing the controversial election of George W. Bush. It reflects the contentious nature of U.S. politics and the ongoing debates about election integrity.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "GODBLESSTHEUSA",
+        "explanation": "This phrase is a patriotic expression often used by individuals who identify strongly with conservative values. It indicates a sentiment of national pride and is commonly associated with discussions around American politics and identity.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "flipped yet again",
+        "explanation": "This phrase suggests a perception of inconsistency or changing positions by Hillary Clinton, which can evoke feelings of distrust or skepticism among the public.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "trust her",
+        "explanation": "This phrase highlights a key issue in Hillary Clinton's political narrative, emphasizing the importance of public trust in her leadership and policies. It suggests an ongoing effort to rebuild or maintain her credibility.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "subpoenas",
+        "explanation": "The mention of subpoenas relates to legal inquiries and investigations that have involved Hillary Clinton, particularly regarding her email practices during her tenure as Secretary of State.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "WhatILearnedToday",
+        "explanation": "This appears to be a social media tag or trend that may relate to discussions or lessons learned from current events involving Hillary Clinton, indicating ongoing public interest.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Clinton lackey",
+        "explanation": "The term 'Clinton lackey' is used to describe someone who is perceived as a subordinate or loyal supporter of Hillary Clinton. This phrase carries a negative connotation, suggesting that the individual lacks independent thought and is merely a follower of Clinton's agenda. It reflects the speaker's disdain for Clinton and her associates.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "bash Donald Trump",
+        "explanation": "The phrase 'bash Donald Trump' indicates criticism or negative commentary directed towards Donald Trump. This reflects a polarized political climate where individuals express strong opinions about political figures, highlighting the division between supporters of Trump and Clinton.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "endsexism",
+        "explanation": "This term is a call to action against sexism, indicating a social movement or advocacy for gender equality. Its inclusion in the text suggests that Hillary Clinton's candidacy is viewed as a step towards combating sexism in politics, highlighting her role as a female leader.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "progressive democrat",
+        "explanation": "The term 'progressive democrat' refers to a political faction within the Democratic Party that advocates for progressive policies. This mention underscores the ideological battle between different political factions and the urgency some voters feel in choosing a candidate who can effectively oppose this faction.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "UniteRight",
+        "explanation": "UniteRight appears to be a call for unity among right-leaning voters, suggesting a movement or campaign aimed at consolidating support against progressive candidates. This reflects the strategic discussions happening within the Republican base regarding the upcoming elections.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "not voting",
+        "explanation": "The phrase 'not voting' indicates a sentiment of disillusionment or dissatisfaction among some voters regarding the choices available to them, particularly between Donald Trump and Hillary Clinton. This highlights the challenges candidates face in energizing their base and the potential impact on voter turnout.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "enemy denial",
+        "explanation": "'Enemy denial' suggests a refusal to acknowledge the opposition or adversarial stance of a political figure. In this context, it implies that there are individuals or groups who may not recognize Hillary Clinton as a political adversary, which can reflect broader themes of political polarization and the challenges of bipartisan dialogue.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "FaithWarJournal",
+        "explanation": "FaithWarJournal appears to be a social media account or platform that expresses gratitude and invokes blessings, indicating a religious or supportive stance. Its mention suggests a community that may align with certain political or social values.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "PATRIOTSWILLRISE",
+        "explanation": "'PATRIOTSWILLRISE' suggests a movement or sentiment among certain groups that advocate for a resurgence of patriotic values, possibly in opposition to figures like Hillary Clinton. This phrase indicates a rallying cry for those who may feel disenfranchised or opposed to her political stance.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Spitting on clergy",
+        "explanation": "This phrase implies a disrespectful act towards religious figures, which can be interpreted as a critique of societal values. Its inclusion in the text suggests a broader commentary on perceived moral decay associated with political figures, including Hillary Clinton.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Obama is America",
+        "explanation": "This phrase suggests a strong identification of Barack Obama with American identity, which may imply that Hillary Clinton's alignment with him is viewed negatively by some. It reflects the political divide and the emotional weight of her association with Obama.",
+        "catalogue": "discussion"
+    },
+    {
+        "term": "LYING THEIVING",
+        "explanation": "This phrase expresses a strong negative sentiment towards Hillary Clinton, suggesting accusations of dishonesty and theft. It reflects a critical stance that is often found in political discourse, particularly among opponents.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "vagina",
+        "explanation": "The use of this term in the context of the text indicates a derogatory or disrespectful reference to Hillary Clinton, likely aimed at undermining her credibility or authority as a female political figure.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Subpoena to Testify",
+        "explanation": "This event refers to a legal action where Hillary Clinton was required to appear and provide testimony, indicating a significant moment in her political and legal challenges. It highlights the scrutiny she faces and the ongoing discussions about accountability in politics.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Too busy protesting",
+        "explanation": "This phrase indicates a context where individuals are engaged in protests, possibly related to political issues or figures, including Hillary Clinton. It suggests a level of activism or dissent that may be connected to her policies or public image.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Chelsea",
+        "explanation": "Chelsea is mentioned in a derogatory context, indicating a negative sentiment towards her and her relationship with her mother, Hillary Clinton. This reflects the emotional stance of the author towards both individuals.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "committed suicide",
+        "explanation": "The phrase 'committed suicide' is used in a shocking and extreme context, indicating a desire for the removal of Hillary Clinton and Chelsea from public life. This reflects the author's intense emotions and is a significant statement regarding their perceived impact on the world.",
+        "catalogue": "event"
+    },
+    {
+        "term": "Braidleigh 2016",
+        "explanation": "'Braidleigh 2016' suggests a significant political event or movement anticipated in the year 2016, possibly related to a revolution or major change in political dynamics. This term indicates a call to action or a pivotal moment in the political discourse surrounding figures like Hillary Clinton.",
+        "catalogue": "event"
+    },
+    {
+        "term": "BetOnRed",
+        "explanation": "'BetOnRed' is likely a reference to a political strategy or campaign associated with conservative values, indicating a strong support for Republican candidates. This term reflects the sentiments of those who are rallying against figures like Clinton, emphasizing a desire for a shift in political power.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "PatriotsWillRise",
+        "explanation": "'PatriotsWillRise' conveys a sense of urgency and determination among conservative supporters, suggesting a movement or uprising against the current political establishment, which includes figures like Hillary Clinton. This term encapsulates the emotional drive of those who feel strongly about their political beliefs.",
+        "catalogue": "social_media_discussion"
+    },
+    {
+        "term": "Obama communism",
+        "explanation": "This phrase indicates a strong political stance against former President Barack Obama, associating his policies with communism. It reflects a critical view of his presidency and suggests a belief that his administration was detrimental, particularly in relation to the African American community.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "msnbc",
+        "explanation": "MSNBC is a major news network that often covers political events and figures, including Hillary Clinton. The mention of MSNBC indicates a context of political discussion and media engagement surrounding Clinton.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Economic Agenda",
+        "explanation": "The term 'Economic Agenda' refers to a specific plan or set of policies that a political candidate, in this case, Hillary Clinton, intends to implement regarding economic issues. It is significant as it indicates a focus on concrete proposals rather than general statements, which can resonate with voters looking for actionable plans.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "Monday July 13",
+        "explanation": "This date likely refers to a scheduled event where Hillary Clinton is expected to present her Economic Agenda. The mention of a specific date adds a sense of immediacy and anticipation regarding her plans, making it a significant event in her campaign.",
+        "catalogue": "event"
+    },
+    {
+        "term": "secure border",
+        "explanation": "The phrase 'secure border' reflects a stance on immigration policy that emphasizes the need for safety and control over national borders. It is often associated with conservative viewpoints that advocate for stricter immigration laws and enforcement.",
+        "catalogue": "keyword"
+    },
+    {
+        "term": "racist",
+        "explanation": "The term 'racist' is used to describe a negative label often applied to individuals or groups who advocate for stricter immigration policies. It reflects the emotional and contentious nature of the immigration debate, where calls for security can be misconstrued as discriminatory.",
+        "catalogue": "keyword"
+    }
+]
