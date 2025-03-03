@@ -4,6 +4,8 @@
 ![](https://img.shields.io/badge/Python-3.10-blue.svg)
 ## Overview
 
+This paper is accepted by DASFAA2025 as long paper.
+
 This repository provides a **Stance Detection Framework** for efficiently detecting stances (e.g., Favor, Against, Neutral) from textual data. The system leverages a collaborative approach combining **Large Language Models (LLMs)** for nuanced reasoning and **Small Language Models (SLMs)** for efficient verification and classification. 
 
 ![System Overview](pic/CoVer.png)
