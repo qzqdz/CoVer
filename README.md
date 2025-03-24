@@ -157,7 +157,7 @@ To cite this work, please use the following BibTeX entry:
   journal={arXiv preprint arXiv:2502.19954},
   year={2025}
 }
-
+```
 
 ---
 ## License
