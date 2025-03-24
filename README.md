@@ -17,6 +17,23 @@ This repository provides a **Stance Detection Framework** for efficiently detect
 
 ---
 
+
+## 📁 Project Structure
+
+
+project_root/
+├── datasets/                      # Dataset directory  
+│   └── semeval2016/              # SemEval 2016 dataset  
+│       └── hc/                   # Hillary Clinton related data (relevant knowledge)  
+├── main.py                       # Main program entry (configures embedded model APIs)  
+├── language_models.py            # Language model configuration  
+├── saved_model/                  # Directory for saved models  
+│   └── stanceberta_classifier/   # StanceBERTa classification model  
+├── pic/                          # Image assets  
+│   └── CoVer.png                 # System architecture diagram  
+└── README.md                     # Project documentation file
+
+---
 ## Components
 
 ### 1. **StanceEnhancer**
@@ -129,5 +146,19 @@ detector.batch_run_detection(
 
 ---
 
+## 📚 Citation
+
+To cite this work, please use the following BibTeX entry:
+
+```bibtex
+@article{yan2025collaborative,
+  title={Collaborative Stance Detection via Small-Large Language Model Consistency Verification},
+  author={Yan, Yu and Sun, Sheng and Tang, Zixiang and Liu, Teli and Liu, Min},
+  journal={arXiv preprint arXiv:2502.19954},
+  year={2025}
+}
+
+
+---
 ## License
 This repository is licensed under the MIT License. See the `LICENSE` file for more details.
